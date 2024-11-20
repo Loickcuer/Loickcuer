@@ -17,4 +17,3 @@
 
 - 🔭 I’m currently working on My NLP reviews project and my fundamental skills in data science.
 - 🌱 I'm learning data science for the finance industry.
-- ✉️ I'm looking for an open-ended position as a NLP engineer or data science consultant, feel free to contact me !
