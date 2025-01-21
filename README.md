@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-💻 Data & AI M2 ESILV graduate | NLP enthusiast | I like cooking, volley ball and stunts !
+💻 Data & AI M2 ESILV graduate | GenAI & Cloud enthusiast | I like cooking, volley ball and stunts !
 
 ## Work Experience
 
